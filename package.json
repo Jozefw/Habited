@@ -1,0 +1,28 @@
+{
+  "name": "habited",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jozefw/Habited.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jozefw/Habited/issues"
+  },
+  "homepage": "https://github.com/Jozefw/Habited#readme",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "method-override": "*",
+    "mongoose": "^4.4.19",
+    "nodemon": "^1.9.2"
+  }
+}
